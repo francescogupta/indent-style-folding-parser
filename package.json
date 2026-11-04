@@ -1,0 +1,17 @@
+{
+  "name": "indent-style-folding-parser",
+  "version": "0.1.0",
+  "description": "Converts indented text into a tree structure based on leading whitespace.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
